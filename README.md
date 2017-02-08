@@ -1,0 +1,2 @@
+# RobotLaban
+An extended Labanotation for an industrial robot was developed and applied. A user-friendly program was designed to help design dance choreography. The program, LabanRobot, has a simple interface that can be used without any prior knowledge of the robot. The choreographer should keep geometry in mind and plan the dance sequence accordingly. The conversion of dance sequences to robot motion is done automatically by the program.
